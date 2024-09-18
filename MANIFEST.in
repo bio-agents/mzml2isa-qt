@@ -1,0 +1,4 @@
+include mzml2isa_qt/ontologies/*.json
+include README.rst
+include LICENSE
+include requirements*.txt
